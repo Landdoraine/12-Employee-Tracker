@@ -1,0 +1,25 @@
+{
+  "name": "12-emloyee-tracker",
+  "version": "1.0.0",
+  "description": "This is an Employee Tracker App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Landdoraine/12-Employee-Tracker.git"
+  },
+  "author": "Manjini Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Landdoraine/12-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/Landdoraine/12-Employee-Tracker#readme",
+  "dependencies": {
+    "dotenv": "^8.6.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.6",
+    "mysql2": "^2.3.3"
+  }
+}
